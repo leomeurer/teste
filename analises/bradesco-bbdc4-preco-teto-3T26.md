@@ -164,8 +164,7 @@ Esse último choque é um **risco "silencioso"**. Mesmo que o atraso pare de sub
 
 ## 5. Contingências e capital (abas 18 e 30)
 
-- **Contingências provisionadas:** R$ 17,3 bi (fiscais R$ 6,0 bi, trabalhistas R$ 4,4 bi, cíveis R$ 7,0 bi). A provisão fiscal caiu de R$ 8,6 bi para R$ 6,0 bi em 18 meses (pagamentos/acordos).
-  ⚠️ As contingências classificadas como **"possíveis"** não estão provisionadas. Elas só aparecem na nota explicativa do ITR, não nesta planilha. Vale conferir.
+- **Contingências provisionadas:** R$ 17,3 bi (fiscais R$ 6,0 bi, trabalhistas R$ 4,4 bi, cíveis R$ 7,0 bi). A provisão fiscal caiu de R$ 8,6 bi para R$ 6,0 bi em 18 meses (pagamentos/acordos). As contingências **possíveis** (não provisionadas) somam **R$ 52,7 bi**; ver a seção 7.2.
 - **Basileia:** 16,0%; Nível I de 13,7%; CET1 de ~12,1%. A sobra sobre o mínimo exigido é de R$ 96,9 bi.
 - **RWA:** +14% a/a (R$ 1,067 tri → R$ 1,217 tri). O banco está alocando capital em crédito mais arriscado (rural, capital de giro, serviços), o que é coerente com a alta do Estágio 2.
 
@@ -207,18 +206,105 @@ Esse último choque é um **risco "silencioso"**. Mesmo que o atraso pare de sub
 | DPA PN líquido trimestral | R$ 0,32 | ≥ R$ 0,32 | queda |
 | Créditos tributários / PL | 60% | queda gradual | alta (prejuízo fiscal subindo) |
 
-### Ainda falta verificar no ITR (não está na planilha)
+---
 
-- [ ] Contingências **possíveis** (não provisionadas), principalmente as fiscais
-- [ ] Abertura do Estágio 3 e da perda esperada **por segmento** (rural PJ, MPMEs com FGI/FGO)
-- [ ] Saldo garantido por FGI/FGO/Pronampe e prazo de honra das garantias
-- [ ] Cronograma de realização dos créditos tributários (por ano)
-- [ ] Concentração: aba "Maiores Devedores" (descontinuada; ver a nota do ITR)
-- [ ] Evento subsequente: homologação do aumento de capital pelo BACEN
+## 7. O que as notas explicativas e a teleconferência do 3T26 acrescentam
+
+Fontes desta seção, todas da Central de Resultados do RI:
+- *Relatório de Análise Econômica e Financeira 3T26*, que inclui as Demonstrações Financeiras Consolidadas com notas explicativas;
+- *Apresentação 3T26*;
+- *Transcrição da videoconferência de 23/10/2026*.
+
+### 7.1 Guidance 2026: onde o banco está depois de 9 meses
+
+| Linha | Guidance 2026 | Realizado 9M26 | Leitura |
+|---|---|---|---|
+| Carteira expandida | +8,5% a 10,5% | +5,5% no ano (+11,1% a/a) | 🟢 dentro |
+| **Margem financeira líquida de PDD** | **R$ 42 a 48 bi** | R$ 32,0 bi. Se o 4T repetir o 3T, o ano fecha em **~R$ 42,7 bi** | 🔴 **no piso da faixa**. É a linha onde a PDD aparece |
+| Receitas de serviços | +3% a 5% | +3,6% | 🟢 dentro |
+| Despesas operacionais | +6% a 8% | **+3,2%** | 🟢 bem abaixo, e é o que segura o lucro |
+| Seguros | +6% a 8% | +8,6% | 🟢 acima |
+
+O lucro está sendo entregue pelo controle de despesas e por seguros, não pela margem de crédito. A tesouraria também ajuda: o CFO deu um *soft guidance* de **~R$ 3 bi de margem com mercado em 2026**.
+
+### 7.2 Contingências **possíveis**, as que não estão provisionadas (nota de provisões e passivos contingentes)
+
+| R$ bi | Dez25 | Set26 |
+|---|---|---|
+| Fiscais | 43,1 | **39,0** |
+| Cíveis | 11,1 | **12,1** |
+| Trabalhistas | 1,5 | **1,6** |
+| **Total** | 55,7 | **52,7** (≈ 28% do PL) |
+
+Principais processos fiscais "possíveis":
+- **Cofins 1999–2014:** R$ 10,9 bi.
+- **IRPJ/CSLL sobre amortização de ágio:** R$ 7,6 bi.
+- **IRPJ/CSLL sobre captação entre empresas do grupo:** R$ 6,7 bi.
+- **Glosa de perdas no recebimento de créditos:** R$ 3,6 bi.
+- **Dedutibilidade de JCP 2019–2021:** R$ 1,0 bi. Atenção a este: o JCP é justamente o mecanismo que derruba o IR contábil.
+
+**A contingência de R$ 1,8 bi do 1T26 explicada.** O banco aderiu à Lei do Voto de Qualidade (Lei 14.689/23) para encerrar autuações de IRPJ/CSLL de 2012–2015. O valor discutido caiu de R$ 11,1 bi para R$ 6,7 bi. Juros e multa foram excluídos, e o principal foi **pago com créditos de prejuízo fiscal (R$ 1,78 bi), não com caixa**. Isso explica a queda do crédito tributário de prejuízo fiscal no 2T26.
+
+A nota mostra outro ponto: provisões trabalhistas e cíveis constituídas somam **R$ 4,5 bi em 9M26**, e pagamentos, **R$ 4,8 bi**. É um custo estrutural, não "não recorrente".
+
+### 7.3 Créditos tributários: cronograma de realização (nota de IR/CS)
+
+| Ano | Realização prevista (R$ bi) |
+|---|---|
+| 4T26 | 2,6 |
+| 2027 | **16,0** |
+| 2028 | 13,6 |
+| 2029 | 12,8 |
+| 2030–2035 | 10 a 12 por ano |
+| **Total** | **109,4** (valor presente: **R$ 94,7 bi**) |
+
+- A realização prevista de ~R$ 16 bi em 2027 corresponde, na prática, às despesas de PDD e às baixas que viram dedutíveis. Enquanto houver **constituição** de novos créditos (mais PDD), o IR contábil continua baixo.
+- Créditos tributários líquidos / Patrimônio de Referência caíram de **64,7% para 53,4%** em 9 meses. Isso é positivo para a qualidade do capital.
+
+### 7.4 Crédito: o que a nota acrescenta à planilha
+
+- **Estágio 2 por tipo de cliente (Dez25 → Set26):**
+  - PJ: R$ 11,6 bi → **R$ 15,7 bi (+36%)**;
+  - PF: R$ 25,4 bi → R$ 29,5 bi (+16%).
+  - O Estágio 2 de PJ é o que mais cresce. A gestão atribui isso às linhas FGI/FGO e ao agro.
+- **Write-off em 9M26:** PF R$ 21,5 bi contra PJ R$ 8,5 bi. **As perdas efetivas continuam vindo do varejo PF** (empréstimos e rotativo).
+- **PDD do massificado** (PF + pequenas empresas): R$ 10,2 bi no 3T26, **6,3% anualizado da carteira** (5,3% no 3T25). O atacado é irrelevante: R$ 0,4 bi.
+- **Cobertura da formação do Estágio 3:** 83% no 3T26 e 94% em 9M26. Segundo o banco, seria acima de 100% sem FGI/FGO.
+- **FGI/FGO:**
+  - crescem **31,5% a/a**, já são **~20% da originação** e o banco tem mais de 20% de *market share*;
+  - a gestão diz que "praticamente não há write-off na carteira de FGI", porque a garantia do fundo cobre a perda.
+  - ⚠️ **Risco regulatório:** o mercado discute uma redução desses fundos em 2027. Se acontecer, o crescimento de MPME desacelera, ou o banco migra para linhas sem garantia, com mais risco.
+- **Carteira reestruturada:** R$ 25,4 bi (3,0% da carteira, contra 3,7% um ano antes). A provisão é de ~49% do saldo, e R$ 19,8 bi do Estágio 3 vêm de operações reestruturadas.
+- **Concentração em queda:** os 100 maiores devedores caíram de R$ 91,3 bi para R$ 88,7 bi, e os 10 maiores de R$ 27,5 bi para R$ 25,1 bi. O maior devedor tem R$ 4,1 bi. **O risco não está em grandes nomes** (o "risco Americanas" diminuiu). Está pulverizado no massificado.
+
+### 7.5 O que a diretoria disse na teleconferência
+
+- **Marcelo Noronha (CEO):** "Acho que o custo de crédito e o over 90 vão ficar pressionados por algum tempo, sim." Sobre o macro: "não muda da noite para o dia em 2027, mas, quem sabe, mais para o final do ano, e em 2028 também".
+- **André Carvalho (RI):** sobre o over 90 de MPME, "provavelmente, no quarto trimestre, ainda sobe um pouco mais".
+- **Os bolsões de risco**, nas palavras da gestão: rural PF e pequena empresa, crédito pessoal, parte do cartão e FGI/FGO. Um analista citou "empresas do agro entrando em estágio 3".
+- **Capital:** CET1 de 12,1% e Nível I de 13,7%; "estamos muito bem para continuar investindo". Não houve sinalização de mudança no payout.
+
+### 7.6 Impacto nas premissas do preço teto
+
+As notas **confirmam o cenário base de lucro contábil de ~R$ 26 bi**, e não o otimista de R$ 28 bi:
+- a própria diretoria espera PDD pressionada até o fim de 2027;
+- a margem líquida está no piso do guidance;
+- as despesas já estão em ritmo muito baixo, então há pouco espaço para cortar mais.
+
+O risco de cauda está menos em grandes devedores e em contingências (R$ 52,7 bi possíveis, mas antigas e em boa parte em discussão há décadas). Está mais em:
+1. corte dos fundos FGI/FGO;
+2. continuidade da piora no massificado PF;
+3. agro.
+
+### Ainda pendente
+
+- [ ] Homologação do aumento de capital pelo BACEN (evento subsequente). Até o 3T26, os R$ 10 bi já estavam no PL (R$ 188,5 bi).
+- [ ] Soft guidance de 2027, previsto para a divulgação do 4T26 (fevereiro/2027). É o próximo gatilho para revisar o preço teto.
 
 ### Fontes
 
 - Bradesco RI, séries históricas 3T26 (planilha enviada pelo usuário): abas 4, 7, 11, 13, 14, 15, 16, 18, 22, 27, 29, 30 e 31
+- Bradesco RI, Central de Resultados: https://www.bradescori.com.br/informacoes-ao-mercado/central-de-resultados/ (Relatório de Análise Econômica e Financeira 3T26 com notas explicativas, Apresentação 3T26, Transcrição da videoconferência de 23/10/2026)
 - InfoMoney: https://www.infomoney.com.br/mercados/bradesco-bbdc4-resultados-terceiro-trimestre-2026/
 - Investfy (NPL por segmento, NPL 15–90): https://investfy.com/bbdc4-no-3t26-lucro-bom-qualidade-razoavel/
 - BB-BI / InvesTalk (CET1): https://investalk.bb.com.br/noticias/mercado/BBDC3T26
